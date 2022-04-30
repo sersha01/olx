@@ -36,3 +36,7 @@
     cursor: pointer;
   }
   
+.signup-error {
+    color: red;
+    margin: 0px;
+}

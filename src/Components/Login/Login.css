@@ -36,3 +36,7 @@
     cursor: pointer;
   }
   
+  #error-login {
+    color: red;
+    margin: 0px;
+  }
